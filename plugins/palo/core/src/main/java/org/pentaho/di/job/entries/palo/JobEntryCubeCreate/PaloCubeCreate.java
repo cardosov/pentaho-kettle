@@ -59,6 +59,8 @@ public class PaloCubeCreate extends JobEntryBase implements Cloneable, JobEntryI
   private String cubeName = "";
   private List<String> dimensionNames = new ArrayList<String>();
 
+  private String tester = "";
+
   public PaloCubeCreate( String n ) {
     super( n, "" );
     setID( -1L );
