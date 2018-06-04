@@ -112,8 +112,6 @@ public class Value implements Cloneable, XMLInterface, Serializable {
   private String origin;
   private boolean NULL;
 
-  private boolean worked;
-
   /**
    * Constructs a new Value of type EMPTY
    *
