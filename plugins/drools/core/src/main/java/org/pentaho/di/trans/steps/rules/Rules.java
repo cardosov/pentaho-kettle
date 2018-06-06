@@ -33,7 +33,7 @@ import java.util.Map;
 
 public class Rules {
 
-  private String whatever = "xxxxxxx";
+  private String whatever = "uuhuhuhh";
 
   public static class Row {
     private Map<String, Object> row;
