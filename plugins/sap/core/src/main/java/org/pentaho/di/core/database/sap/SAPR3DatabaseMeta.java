@@ -46,7 +46,7 @@ public class SAPR3DatabaseMeta extends BaseDatabaseMeta implements DatabaseInter
   public static final String ATTRIBUTE_SAP_CLIENT = "SAPClient";
   public static final String SAPR3 = "SAPR3";
 
-  // TESTING
+  // TESTING 1
   
   @Override
   public int[] getAccessTypeList() {
