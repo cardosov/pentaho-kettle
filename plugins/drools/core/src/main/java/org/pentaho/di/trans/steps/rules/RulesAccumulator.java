@@ -36,6 +36,8 @@ import org.pentaho.di.trans.steps.rules.Rules.Row;
 public class RulesAccumulator extends BaseStep implements StepInterface {
   // private static Class<?> PKG = Rules.class; // for i18n purposes
 
+  //TESTING
+  
   private RulesAccumulatorMeta meta;
 
   private RulesAccumulatorData data;
