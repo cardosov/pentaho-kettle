@@ -36,7 +36,7 @@ import org.pentaho.di.trans.steps.rules.Rules.Row;
 public class RulesAccumulator extends BaseStep implements StepInterface {
   // private static Class<?> PKG = Rules.class; // for i18n purposes
 
-  //TESTING 3333 w2ww wwwwsws
+  //TESTING 3333 w2ww wwwwsws eeee
   
   private RulesAccumulatorMeta meta;
 
