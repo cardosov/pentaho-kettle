@@ -35,7 +35,7 @@ import ognl.OgnlException;
 public class OgnlExpression {
   private Object expression;
 
-  private String ddd = "vitsssss";
+  private String ddd = "ggg";
 
   public OgnlExpression( String expressionString ) throws OgnlException {
     expression = Ognl.parseExpression( expressionString );
