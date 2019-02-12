@@ -63,7 +63,7 @@ public class RulesExecutorData extends BaseStepData implements StepDataInterface
   private KnowledgeBuilder kbuilder;
 
   private KnowledgeBase kbase;
-  private KnowledgeBase kbase2essssss;
+  private KnowledgeBase kbase2esssss222222ss;
 
   private Column[] columnList;
 
