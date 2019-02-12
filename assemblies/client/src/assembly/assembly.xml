@@ -7,7 +7,7 @@
   <includeBaseDirectory>true</includeBaseDirectory>
   <baseDirectory>data-integration</baseDirectory>
   <fileSets>
-    <!-- the staging dir dwwwwwwwwwwwwwwwwww -->
+    <!-- the staging dir 7777 -->
     <fileSet>
       <directory>${assembly.dir}</directory>
       <outputDirectory>.</outputDirectory>
